@@ -35,17 +35,17 @@ ip Socket 통신 프로그래밍 - 자동 웹 오픈 서버 구현
 
 ## 구조 
 
-![server_clinet](\img&report\server_clinet.png)
+![server_clinet](https://user-images.githubusercontent.com/42141289/105950775-50255080-60b2-11eb-84f4-88e55d5657fa.png)
 
 
 
 ## 작동 방식
 
-![1](\img&report\1.png)
+![1](https://user-images.githubusercontent.com/42141289/105950776-50bde700-60b2-11eb-8590-e523d69f9837.png)
 
-![2](\img&report\2.png)
+![2](https://user-images.githubusercontent.com/42141289/105950778-51567d80-60b2-11eb-915f-38b410f71b3f.png)
 
-![3](\img&report\3.png)
+![3](https://user-images.githubusercontent.com/42141289/105950780-51ef1400-60b2-11eb-8951-4735df9f2ac1.png)
 
 
 
@@ -54,4 +54,6 @@ ip Socket 통신 프로그래밍 - 자동 웹 오픈 서버 구현
 ## test
 
 <video src="img&amp;report\test.mp4"></video>
+
+report 참조
 
